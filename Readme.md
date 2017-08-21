@@ -13,9 +13,4 @@ novamente testando a edicao desse arquiv
 letando novamente depois do commit realizado.
 
 
-
-
-
-
-
-
+Nova linha adicionada.
